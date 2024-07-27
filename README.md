@@ -1,1 +1,1 @@
-# InetBankingV1
+# InetBanking
